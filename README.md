@@ -4,4 +4,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | NYC Airbnb | The project task was to analyze the Airbnb data of rental properties in NYC to recommend the best poperty types to invest in. |
+| 1 | NYC Airbnb | The project task was to analyze the Airbnb data of rental properties in NYC to recommend the best property types to invest in. |
+| 2 | E-commerce Analytics | A project using spreadsheets to analyze sales data and communicate findings in a way that executives can understand easily. |
+| 3 | Case Study of Returned Items | An analysis to identify areas of profitability and frequently returned items. |
